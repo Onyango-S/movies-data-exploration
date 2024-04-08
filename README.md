@@ -6,4 +6,4 @@ This project uses mysql to answer questions from the database including:
 - What is the average runtime of movies in each genre?
 - Extract the ten oldest movies in the database?
 
-  View the full code here: 
+  View the full code here: https://github.com/Onyango-S/movies-data-exploration/blob/main/sql_for_data_analysis.ipynb
